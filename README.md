@@ -12,7 +12,7 @@ On frontend:
 * How to style page using BoostrapVue
 * How to implement livesocket using socket.io library
 
-On backend:
+On frontend:
 
 * How to use Node.js
 * How to model database using Sequelize
